@@ -1,5 +1,4 @@
 # hello-world
-My introduction to GitHub
 
 I'm Mike and I'm just trying this out.
 
